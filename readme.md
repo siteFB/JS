@@ -1,4 +1,4 @@
-# $\mathcal{\color{purple}{ \ JavaScript \ }}$<br>
+$\mathcal{\color{purple}{ \ JavaScript \ }}$<br>
 
 JavaScript is object-oriented and runs on the browser side, but it can also be used on the server side.
 <br>
